@@ -15,7 +15,7 @@
 ![HTML5](https://camo.githubusercontent.com/269f27474e31fa88c5cc25a57b3bce9b9bd087c1e4131151cc7d2da21bc328cb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d4533344632363f266c6f676f3d48544d4c35266c6f676f436f6c6f723d464646464646)
 ![Nodejs](https://camo.githubusercontent.com/b18cd96f056a7af4213539108d08784f3e02e3eee1fbc0ea497d2364ca211806/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Diogolimalucas)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogolimalucasdev)](https://github.com/diogolimalucasdev/github-readme-stats)
