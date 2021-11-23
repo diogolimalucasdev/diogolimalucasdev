@@ -5,7 +5,7 @@
  - :world_map: Local:  São Paulo, Sp(Brasil)
  -  :man_student::books:Estudos Concluídos: Técnico Em Eletrônica (Etec) 
  - :books:Cursando: Técnico Em Desenvolvimento de Sistemas(Senai)
- -  :books:Cursando: PythonFundamentos 1(Senac)
+ -  :books:Cursando : Python Fundamentos 1(Senac)
  - :man_office_worker: A procura pela primeira oportunidade como dev.
  - :hourglass:Hobbies:  Jogar bola, Videogame e programação
  
