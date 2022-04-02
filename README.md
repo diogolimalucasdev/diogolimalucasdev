@@ -8,7 +8,7 @@
  -  :books:Concluído : Python Fundamentos 1(Senac)
  - :man_office_worker: A procura pela primeira oportunidade como dev.
  - :hourglass:Hobbies:  Jogar bola, Videogame e programação
- - 🎓 Cursos: [Certificados]( https://github.com/diogolimalucasdev/Certificate)
+ - 🎓 Cursos: [Certificados](https://github.com/diogolimalucasdev/Certificates)
  
 
  
