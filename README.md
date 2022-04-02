@@ -33,7 +33,7 @@
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Diogolimalucas&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Linguagens Utilizadas
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogolimalucasdev&show_icons=true&theme=radical)]
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diogolimalucasdev&hide=scss,JavaScript,PowerShell,C++,Td,Tex,Fortran,C&layout=compact&theme=cobalt&title_color=2ED3EA)
 
 ## Atribuiçoes
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diogolimalucasdev&show_icons=true&theme=radical)
