@@ -22,6 +22,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogolimalucasdev&show_icons=true&theme=radical)](https://github.com/diogolimalucasdev/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diogolimalucasdev&show_icons=true&theme=radical)
+
 
 ## Ferramentas:
 
@@ -29,15 +31,15 @@
 
 ## Contatos:
 <a href="https://www.linkedin.com/in/diogolimadev/" target="_blank">
-<img align="center" alt="DiogoLima-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" style="max-width:100%;">
+<img align="center" alt="DiogoLima-linkedin" height="30" width="100" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/brunoluiss" style="max-width:100%;">
 </a>
 
 
 <a href="https://api.whatsapp.com/send?phone=5511956964024" target="_blank">
  :telephone_receiver:  </a>
 
-<a href="https://www.instagram.com/diogolimalucas/" target="_blank">
-<img align="center" alt="DiogoLima-instagram" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" style="max-width:100%;">
+<a href="https://www.instagram.com/diogolima_dev/" target="_blank">
+<img align="center" alt="DiogoLima-instagram" height="30" width="100" src="https://img.shields.io/badge/-Instagram-E4405F?&logo=Instagram&logoColor=FFFFFF" style="max-width:100%;">
 </a>
 
 
@@ -45,5 +47,5 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diogolimalucasdev&show_icons=true&theme=radical)
+
 
