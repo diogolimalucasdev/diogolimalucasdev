@@ -1,7 +1,7 @@
 ##	Seja Bem vindo ao meu Gitgthub  :computer:
  
 ### Quem sou:
- - :smiley: Nome:  Diogo Lima Lucas, Idade: 20 anos
+ - :smiley: Nome:  Diogo Lima Lucas, Idade: 21 anos
  - :world_map: Local:  São Paulo, Sp(Brasil)
  -  :man_student::books:Estudos Concluídos: Técnico Em Eletrônica (Etec) 
  - :books:Cursando: Técnico Em Desenvolvimento de Sistemas(Senai)
