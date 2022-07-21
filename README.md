@@ -4,7 +4,6 @@
  - :smiley: Nome:  Diogo Lima Lucas, Idade: 21 anos
  - :world_map: Local:  São Paulo, Sp(Brasil)
  -  :man_student::books:Estudos Concluídos: Técnico Em Eletrônica (Etec), Técnico Em Desenvolvimento de Sistemas(Senai)
- -  :books:Concluído : Python Fundamentos 1(Senac)
  - :man_office_worker: A procura pela primeira oportunidade como dev.
  - :hourglass:Hobbies:  Jogar bola, Videogame e programação
  - 🎓 Cursos: [Certificados](https://github.com/diogolimalucasdev/Certificates)
